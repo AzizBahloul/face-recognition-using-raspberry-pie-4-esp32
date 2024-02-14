@@ -1,6 +1,13 @@
 pip install face_recognition
+
+
+
 pip install firebase_admin
+
+
 pip install paho-mqtt
+
+
 pip install opencv-python
 
 
